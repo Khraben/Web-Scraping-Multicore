@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<Juegos>
+
+    <juego id="1"> 
+        <name>Grand Theft Auto V</name>
+        <consola>PS4</consola> 
+        <metacritic>https://www.metacritic.com/game/pc/grand-theft-auto-v</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=4064</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/gta-v/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP1004-CUSA00419_00-PREMIUMPACKOG001</psStore>
+        <image>images/1.jpg)</image>
+    </juego>
+    <juego id="2"> 
+        <name>Marvel's Spider-Man: Game Of The Year Edition</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/marvels-spider-man---game-of-the-year-edition</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=70093</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/marvel-spider-man/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA02299_00-MARVELSSMGOTY000</psStore> 
+        <image>images/2.jpg)</image>
+    </juego>
+    <juego id="3">
+        <name>Resident Evil Village</name> 
+        <consola>PS5</consola>  
+        <metacritic>https://www.metacritic.com/game/pc/resident-evil-village</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=80038</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/resident-evil-village/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0102-PPSA01556_00-VILLAGEFULLGAMEX</psStore> 
+        <image>images/3.jpg)</image>
+    </juego>
+    <juego id="4"> 
+        <name>God Of War 3 Remastered</name>
+        <consola>PS4</consola>
+        <metacritic>https://www.metacritic.com/game/playstation-4/god-of-war-iii-remastered</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=3978</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/god-of-war-3-remastered/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA01623_00-0000GODOFWAR3PS4</psStore>
+        <image>images/4.jpg)</image>
+    </juego>
+    <juego id="5"> 
+        <name>Horizon Zero Dawn</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/pc/horizon-zero-dawn-complete-edition</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=26784</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/horizon-zero-dawn/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA10237_00-HRZCE00000000000</psStore> 
+        <image>images/5.jpg)</image>
+    </juego>
+    <juego id="6"> 
+        <name>Ghost of Tsushima</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/ghost-of-tsushima</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=51225</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/ghost-of-tsushima/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA11456_00-GHOSTSHIP0000001</psStore> 
+        <image>images/6.jpg)</image>
+    </juego>
+    <juego id="7"> 
+        <name>God of War</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/god-of-war</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=38050</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/god-of-war/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA07408_00-00000000GODOFWAR</psStore> 
+        <image>images/7.jpg)</image>
+    </juego>
+    <juego id="8"> 
+        <name>FIFA 21</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/fifa-21</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=82088</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/deportes-ps4/fifa-21/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0006-PPSA01327_00-POSTLAUNCHCHAMPN</psStore> 
+        <image>images/8.jpg)</image>
+    </juego>
+    <juego id="9"> 
+        <name>The Last of Us Part II</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/the-last-of-us-part-ii</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=41753</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/the-last-of-us-part-ii/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA07820_00-THELASTOFUSPART2</psStore> 
+        <image>images/9.jpg)</image>
+    </juego>
+    <juego id="10"> 
+        <name>World of Final Fantasy</name>
+        <consola>PS4</consola> 
+        <metacritic>https://www.metacritic.com/game/playstation-4/world-of-final-fantasy</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=40502</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/world-of-final-fantasy/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0082-CUSA04647_00-WORLDOFFFPS40000</psStore>
+        <image>images/10.jpg)</image>
+    </juego>
+    <juego id="11"> 
+        <name>Red Dead Redemption 2</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/red-dead-redemption-2</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=27100</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/red-dead-redemption-2/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP1004-CUSA03041_00-REDEMPTIONFULL02</psStore> 
+        <image>images/11.jpg)</image>
+    </juego>
+    <juego id="12"> 
+        <name>Batman Return to Arkham</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/batman-return-to-arkham</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=41882</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/batman-return-to-arkham/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP1018-CUSA04601_00-RETURNTOARKHAMHD</psStore>
+        <image>images/12.jpg)</image>
+    </juego>
+    <juego id="13"> 
+        <name>Minecraft</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/minecraft-playstation-4-edition</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=6064</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/minecraft/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4433-CUSA00744_00-MINECRAFTPS40001</psStore> 
+        <image>images/13.jpg)</image>
+    </juego>
+    <juego id="14"> 
+        <name>Marvel's Avengers</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/marvels-avengers</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=67961</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/marvels-avengers/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0082-PPSA01631_00-0662491250602628</psStore> 
+        <image>images/14.jpg)</image>
+    </juego>
+    <juego id="15"> 
+        <name>Call of Duty: Black Ops Cold War</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/call-of-duty-black-ops-cold-war</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=82091</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/call-of-duty-black-ops-cold-war/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0002-CUSA15010_00-CODCWSTANDARD001</psStore> 
+        <image>images/15.jpg)</image>
+    </juego>
+    <juego id="16"> 
+        <name>Marvel's Spider-Man: Miles Morales</name> 
+        <consola>PS5</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/marvels-spider-man-miles-morales</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=79859</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/marvels-spider-man-miles-morales/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-PPSA01411_00-MARVELSSMMORALES</psStore> 
+        <image>images/16.jpg)</image>
+    </juego>
+    <juego id="17"> 
+        <name>Bloodborne</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/bloodborne</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=21262</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/bloodborne/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA00900_00-BLOODBORNE000000</psStore> 
+        <image>images/17.jpg)</image>
+    </juego>
+    <juego id="18"> 
+        <name>Assassin's Creed Valhalla</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/assassins-creed-valhalla</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=77729</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/assassins-creed-valhalla/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0001-PPSA01491_00-GAME000000000000</psStore> 
+        <image>images/18.jpg)</image>
+    </juego>
+    <juego id="19"> 
+        <name>Alien Isolation</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/alien-isolation</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=16638</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/alien-isolation-2/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0177-CUSA00363_00-ALIENISOLATIONP4</psStore>
+        <image>images/19.jpg)</image>
+    </juego>
+    <juego id="20"> 
+        <name>Call of Duty: Modern Warfare</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/call-of-duty-modern-warfare</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=63110</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/call-of-duty-modern-warfare/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0002-CUSA15239_00-CODMWTHEGAME0001</psStore> 
+        <image>images/20.jpg)</image>
+    </juego>
+
+    <juego id="21"> 
+        <name>The Last Of Us Remastered</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/the-last-of-us-remastered</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=20221</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/the-last-of-us-remastered/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA00552_00-THELASTOFUS00000</psStore> 
+        <image>images/21.jpg)</image>
+    </juego>
+    <juego id="22"> 
+        <name>Uncharted 4: A Thief's End</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/uncharted-4-a-thiefs-end</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=20077</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/uncharted-4/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA00341_00-UNCHARTED0000000</psStore> 
+        <image>images/22.jpg)</image>
+    </juego>
+    <juego id="23"> 
+        <name>NASCAR Heat 4</name>
+        <consola>PS4/PS3</consola>
+        <metacritic>https://www.metacritic.com/game/playstation-4/nascar-heat-4</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=68938</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/conduccion-ps4/nascar-heat-4/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0777-CUSA15887_00-MG704NASCARHEAT4</psStore>
+        <image>images/23.jpg)</image>
+    </juego>
+    <juego id="24"> 
+        <name>A Way Out</name>
+        <consola>PS4</consola> 
+        <metacritic>https://www.metacritic.com/game/playstation-4/a-way-out</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=46386</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/a-way-out/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0006-CUSA07995_00-HAZELIGHTAWAYOUT</psStore>
+        <image>images/23.jpg)</image>
+    </juego>
+    <juego id="25"> 
+        <name>The Witcher 3: Wild Hunt</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/the-witcher-3-wild-hunt</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=10270</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/the-witcher-3-wild-hunt/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4497-CUSA00527_00-0000000000000002</psStore> 
+        <image>images/25.jpg)</image>
+    </juego>
+    <juego id="26"> 
+        <name>Final Fantasy VII Remake</name>
+        <consola>PS5</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/final-fantasy-vii-remake</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=89083</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/final-fantasy-vii-remake/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0082-PPSA01903_00-5827003902180177</psStore> 
+        <image>images/26.jpg)</image>
+    </juego>
+    <juego id="27"> 
+        <name>NBA 2K21</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-5/nba-2k21</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=82997</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/deportes-ps4/nba-2k21/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP1001-CUSA19447_00-NBA2K21000000000</psStore> 
+        <image>images/27.jpg)</image>
+    </juego>
+    <juego id="28"> 
+        <name>Anthem</name>
+        <consola>PS4</consola>
+        <metacritic>https://www.metacritic.com/game/playstation-4/anthem</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=46387</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/anthem/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0006-CUSA05364_00-ANTHEM1000000000</psStore>
+        <image>images/28.jpg)</image>
+    </juego>
+    <juego id="29"> 
+        <name>Beyond Two Souls</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/beyond-two-souls</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=1023</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/beyond-two-souls-2/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA00504_00-GBEYONDTWO000001</psStore>
+        <image>images/29.jpg)</image>
+    </juego>
+    <juego id="30"> 
+        <name>Battlefield V</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/battlefield-v</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=57352</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/battlefield-5/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0006-CUSA08724_00-BATTLEFIELDV0000</psStore>
+        <image>images/30.jpg)</image>
+    </juego>
+
+    <juego id="31"> 
+        <name>Gran Turismo Sport</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/gran-turismo-sport</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=49957</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/conduccion-ps4/gran-turismo-sport/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA03220_00-GTSPORTS00000000</psStore> 
+        <image>images/31.jpg)</image>
+    </juego>
+    <juego id="32"> 
+        <name>Resident Evil 7: Biohazard</name> 
+        <consola>PS4</consola> 
+        <metacritic>https://www.metacritic.com/game/playstation-4/resident-evil-7-biohazard</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=38051</hltb> 
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/resident-evil-7/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0102-CUSA03962_00-BH70000000000001</psStore> 
+        <image>images/32.jpg)</image>
+    </juego>
+    <juego id="33"> 
+        <name>Uncharted: The Lost Legacy</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/uncharted-the-lost-legacy</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=41814</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/uncharted-the-lost-legacy/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA07737_00-UNCHD4LOSTLEGACY</psStore> 
+        <image>images/33.jpg)</image>
+    </juego>
+    <juego id="34"> 
+        <name>Monster Hunter World</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/monster-hunter-world</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=52493</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/monster-hunter-world/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0102-CUSA07713_00-0000000000000000</psStore>
+        <image>images/34.jpg)</image>
+    </juego>
+    <juego id="35"> 
+        <name>Death Stranding</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/death-stranding</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=38061</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/death-stranding/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA11260_00-DEATHSTRAND00001</psStore> 
+        <image>images/35.jpg)</image>
+    </juego>
+    <juego id="36"> 
+        <name>DiRT 4</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/dirt-4</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=43274</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/conduccion-ps4/dirt-4/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4001-CUSA07153_00-DIRT4U0000000001</psStore>
+        <image>images/36.jpg)</image>
+    </juego>
+    <juego id="37"> 
+        <name>Mortal Kombat 11</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/mortal-kombat-11</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=62931</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/mortal-kombat-11/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP1018-CUSA11395_00-ULTIMATEUPGRADE0</psStore> 
+        <image>images/37.jpg)</image>
+    </juego>
+    <juego id="38"> 
+        <name>Sekiro: Shadows Die Twice</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/sekiro-shadows-die-twice</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=57415</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/sekiro-shadows-die-twice/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0002-CUSA12047_00-SEKIROGAME000001</psStore> 
+        <image>images/38.jpg)</image>
+    </juego>
+    <juego id="39"> 
+        <name>HITMAN 3</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/hitman-3</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=79774</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/hitman-3/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4572-PPSA01768_00-00000H3000STANDA</psStore>
+        <image>images/39.jpg)</image>
+    </juego>
+    <juego id="40"> 
+        <name>Days Gone</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/days-gone</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=38003</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/days-gone/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP9000-CUSA08966_00-DAYSGONECOMPLETE</psStore> 
+        <image>images/40.jpg)</image>
+    </juego>
+
+    <juego id="41"> 
+        <name>Friday the 13th</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/friday-the-13th-the-game</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=46186</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/friday-the-13th/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP2165-CUSA07878_00-F13GAMEXXXXXXXXX</psStore>
+        <image>images/41.jpg)</image>
+    </juego>
+    <juego id="42"> 
+        <name>Assassin's Creed Odyssey</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/assassins-creed-odyssey</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=57503</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/assassins-creed-odyssey/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0001-CUSA09311_00-GAME000000000000</psStore> 
+        <image>images/42.jpg)</image>
+    </juego>
+    <juego id="43"> 
+        <name>Fall Guys Ultimate Knockout</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/fall-guys-ultimate-knockout</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=68270</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/fall-guys-ultimate-knockout/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP3643-CUSA17711_00-FALLGUYSPS4US000</psStore>
+        <image>images/43.jpg)</image>
+    </juego>
+    <juego id="44"> 
+        <name>Jump Force</name>
+        <consola>PS4</consola>
+        <metacritic>https://www.metacritic.com/game/playstation-4/jump-force</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=57522</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/jump-force/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0700-CUSA11625_00-JUMP50THANNIV000</psStore>
+        <image>images/44.jpg)</image>
+    </juego>
+    <juego id="45"> 
+        <name>Crash Bandicoot 4: It's About Time</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/crash-bandicoot-4-its-about-time</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=80317</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/crash-bandicoot-4-its-about-time/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0002-PPSA02432_00-CB4THEGAME000001</psStore> 
+        <image>images/45.jpg)</image>
+    </juego>
+    <juego id="46"> 
+        <name>Final Fantasy XV</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/final-fantasy-xv</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=3537</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/aventura-ps4/final-fantasy-xv/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0082-CUSA01633_00-FFXVROYALEDITION</psStore> 
+        <image>images/46.jpg)</image>
+    </juego>
+    <juego id="47"> 
+        <name>Metal Gear Solid V: The Phantom Pain</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/metal-gear-solid-v-the-phantom-pain</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=5918</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps3/accion-ps4/metal-gear-solid-v-the-phantom-pain/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0101-CUSA01140_00-MAINGAME00000000</psStore> 
+        <image>images/47.jpg)</image>
+    </juego>
+    <juego id="48"> 
+        <name>DIRT 5</name>
+        <consola>PS4</consola>
+        <metacritic>https://www.metacritic.com/game/playstation-4/dirt-5</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=83066</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/conduccion-ps4/dirt-5/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4001-PPSA01552_00-DIRTFIVEPS5EDITI</psStore>
+        <image>images/48.jpg)</image>
+    </juego>
+    <juego id="49"> 
+        <name>ARK: Survival Evolved</name> 
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/ark-survival-evolved</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=26629</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/ark-survival-evolved/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP0691-CUSA06676_00-ARKSEGAME0000000</psStore> 
+        <image>images/49.jpg)</image>
+    </juego>
+    <juego id="50"> 
+        <name>Control</name>
+        <consola>PS4</consola>  
+        <metacritic>https://www.metacritic.com/game/playstation-4/control</metacritic>
+        <hltb>https://howlongtobeat.com/game?id=57507</hltb>
+        <dix>https://dixgamer.com/shop/juegos/ps4/accion-ps4/control/?v=1d7b33fc26ca</dix>
+        <psStore>https://store.playstation.com/es-cr/product/UP4040-CUSA11461_00-CONTROLPREORDER1</psStore> 
+        <image>images/50.jpg)</image>
+    </juego>
+
+</Juegos>
+

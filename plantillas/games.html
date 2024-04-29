@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Proyecto de Arquitectura de Computadores - {{ title }} </title>
+</head>
+<body>
+    <div class="container">
+        <div class="heading">
+            <h1> {{ title }}</h1>
+            <p> 
+                <blockquote>
+                En esta página web podrás encontrar la comparación de precios de los 50 juegos más populares de Play Station,
+                principalmente de las consolas 4 y 5 (se detalla en la información de cada juego). Los precios mostrados corresponden
+                a los precios de los sitios DixGamer y la página oficial de Play Station. ¡Esperamos que esta información te sea útil!
+                </blockquote>
+            </p>
+        </div>
+        <div class="games">
+            {% for game in games %}
+            <hr/>
+            <h2> "{{ game.name }}" </h2>
+
+            <img src="{{ game.imagen }}" alt= {{ game.name}} title= {{ game.name}}>
+            <br/>
+            <br/>
+          
+            <ul>
+                <li> Consola: {{ game.consola}}</li>
+                <li> Puntuacion de Metacritic: {{ game.metacritic}}</li>
+                <li> Duración (How long to beat): {{ game.hltb}}</li>
+                <li> Precios:
+                    <ul>
+                        <li> Tienda oficial de Play Station: </li>
+                            <ul>
+                                <li>Precio {{ game.precioPSstore}}</li>
+                                <li>Descuento {{ game.descuentoPSstore}}</li>
+                            </ul>
+                        <li> Tienda Virtual DixGamer: </li>
+                            <ul>
+                                <li>Precio {{ game.precioDixGamer}}</li>
+                                <li>Descuento {{ game.descuentoDixGamer}}</li>
+                            </ul>
+                    </ul>
+                </li>
+            </ul>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
